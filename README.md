@@ -1,4 +1,4 @@
-### Hi there 👋!
+### Hi there 👋
 
 This is **Matouš Borák**. I’m a Ruby on Rails developer, currently CTO at [NejŘemeslníci.cz](https://www.nejremeslnici.cz) (a company building a portal for connecting local craftspeople with their customers, now part of [Saint-Gobain](https://www.saint-gobain.com/en)). I mostly work on the product, think of code quality, try to enhance our dev processes, review the code of our small dev team (~ 5 people) and take care of the infrastructure.
 
