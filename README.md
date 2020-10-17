@@ -10,5 +10,7 @@ Also I like to write about tech-related stuff, here are a few of my recent artic
 - [How old are dependencies in your (ruby) project?](https://dev.to/nejremeslnici/how-old-are-dependencies-in-your-ruby-project-3jia) - a way to visualize the recency of the gems in your project
 - [Migrating from jquery-ujs to rails-ujs](https://dev.to/nejremeslnici/migrating-from-jquery-ujs-to-rails-ujs-k9m) - some hardcore tech stuff
 
+A few years ago, I was also quite active on [Stack Overflow](https://stackoverflow.com/users/1544012/borama).
+
 See more at my [personal website](https://www.platanus.cz) and at [@boramacz](https://twitter.com/boramacz) on Twitter.
 
