@@ -4,6 +4,7 @@ This is **Matouš Borák**. I’m a Ruby on Rails developer, currently CTO at [N
 
 Also I like to write about tech-related stuff, here are a few of my recent articles:
 
+- [Split your Webpacker bundles to speed up the web](https://dev.to/nejremeslnici/split-your-webpacker-bundles-to-speed-up-the-web-2) - A front-end optimization technique
 - [Bitwarden: use the most convenient 2FA while staying reasonably safe](https://dev.to/borama/bitwarden-use-the-most-convenient-2fa-while-staying-reasonably-safe-13ee) - I gladly use this feature but think about risks
 - [A few sneak peeks into Hey.com technology](https://dev.to/borama/a-few-sneak-peeks-into-hey-com-technology-i-intro-4bjg) - a 7-parts article about the new exciting stuff that I found in hey.com when it was released
 - [Archiving large MySQL tables](https://dev.to/nejremeslnici/archiving-large-mysql-tables-part-i-intro-4im1) - a 3-parts article about how to get the largest but least important data out of your database
