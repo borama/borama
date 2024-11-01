@@ -19,5 +19,5 @@ Also I like to write about tech-related stuff, here are a few of my recent artic
 
 A few years ago, I was also quite active on [Stack Overflow](https://stackoverflow.com/users/1544012/borama).
 
-See more at my [personal website](https://www.platanus.cz) and at [@boramacz](https://twitter.com/boramacz) on Twitter.
+See more at my [personal website](https://bora.ma) and at [@bora.ma](https://bsky.app/profile/bora.ma) on Blue Sky.
 
