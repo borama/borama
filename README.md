@@ -2,7 +2,7 @@
 
 This is **Matouš Borák**. I’m a Ruby on Rails developer, currently a CTO at [NejŘemeslníci.cz](https://www.nejremeslnici.cz) (a company building a portal for connecting local craftspeople with their customers, now part of [Saint-Gobain](https://www.saint-gobain.com/en)). I mostly work on the product, think of code quality, try to enhance our dev processes in our small dev team (~ 5 people), present what we do to the rest of the company, review the code and take care of the infrastructure.
 
-Also I like to write about tech-related stuff, here are a few of my recent articles:
+Also I like to write about tech-related stuff, here are a few of my selected articles:
 
 - [Migrating Selenium system tests to Cuprite](https://dev.to/nejremeslnici/migrating-selenium-system-tests-to-cuprite-42ah) - using the lovely Cuprite driver for your tests
 - [Tailwind CSS class sorter – the custom way](https://dev.to/nejremeslnici/tailwind-css-class-sorter-the-custom-way-35g5) - building a custom TW classes sorter script
